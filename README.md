@@ -6,6 +6,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/YsGqHY/YsGqHY/output/github-snake.svg" />
 </picture>
 
+擅长使用 Kotlin 与 TypeScript 进行开发，同时熟悉 Go、Java、JavaScript 和 Python，习惯在不同语言之间按需切换。
+
 </div>
 
 ## 🔧 Tech Stack
@@ -18,6 +20,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Go Modules](https://img.shields.io/badge/Go_Modules-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white)
+![Task](https://img.shields.io/badge/Task-29BEB0?style=for-the-badge&logo=task&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 Language Stats
@@ -25,5 +33,6 @@
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YsGqHY&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YsGqHY&theme=tokyonight)
 
 </div>
